@@ -1,0 +1,24 @@
+Write a JAVA program to evaluate an arithmetic expression given by users.
+Your program should follow following steps:
+
+1. Determines whether the expression is properly balanced or not in terms
+of braces.
+For example, your program should return TRUE for
+[{(8+9)*(5+1*3)}-{(50/5)+(2*6)}] and FALSE for [{(8+9)*(5+1*3)}-{(50/5)].
+
+2. If the output of above program is TRUE, then evaluate the expression
+using reverse polish notations.
+
+Note:
+1. For simplicity consider only integer values and four basic operators
+'+', '-', '*', '/'
+2. Operator with higher precedence should evaluate first.
+3. No built-in functions are allowed except for input and output operations.
+
+
+-- 
+Dr. Sriparna Saha
+Assistant Professor
+Indian Institute of Technology Patna
+Patna, Bihar
+Phone: 0612-255-2128
